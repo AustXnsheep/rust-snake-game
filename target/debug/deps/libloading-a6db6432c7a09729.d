@@ -1,0 +1,12 @@
+/home/nick/Desktop/Rust/Snake/snake/target/debug/deps/liblibloading-a6db6432c7a09729.rmeta: /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/lib.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/changelog.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/consts.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/util.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/error.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/safe.rs
+
+/home/nick/Desktop/Rust/Snake/snake/target/debug/deps/libloading-a6db6432c7a09729.d: /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/lib.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/changelog.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/consts.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/util.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/error.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/safe.rs
+
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/lib.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/changelog.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/mod.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/mod.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/consts.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/util.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/error.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/safe.rs:

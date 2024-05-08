@@ -1,0 +1,11 @@
+/home/nick/Desktop/Rust/Snake/snake/target/debug/deps/libwayland_commons-583fa243bcc4e841.rmeta: /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/lib.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/debug.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/filter.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/map.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/socket.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/user_data.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/wire.rs
+
+/home/nick/Desktop/Rust/Snake/snake/target/debug/deps/wayland_commons-583fa243bcc4e841.d: /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/lib.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/debug.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/filter.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/map.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/socket.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/user_data.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/wire.rs
+
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/lib.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/debug.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/filter.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/map.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/socket.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/user_data.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.28.6/src/wire.rs:

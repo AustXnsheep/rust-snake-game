@@ -1,0 +1,12 @@
+/home/nick/Desktop/Rust/Snake/snake/target/debug/deps/libandrew-bd61d2907155137b.rmeta: /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/lib.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/line.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/shapes/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/shapes/rectangle.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/text/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/text/fontconfig.rs
+
+/home/nick/Desktop/Rust/Snake/snake/target/debug/deps/libandrew-bd61d2907155137b.rlib: /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/lib.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/line.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/shapes/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/shapes/rectangle.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/text/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/text/fontconfig.rs
+
+/home/nick/Desktop/Rust/Snake/snake/target/debug/deps/andrew-bd61d2907155137b.d: /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/lib.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/line.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/shapes/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/shapes/rectangle.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/text/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/text/fontconfig.rs
+
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/lib.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/line.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/shapes/mod.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/shapes/rectangle.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/text/mod.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/andrew-0.3.1/src/text/fontconfig.rs:

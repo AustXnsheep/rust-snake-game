@@ -1,0 +1,14 @@
+/home/nick/Desktop/Rust/Snake/snake/target/debug/deps/libtiff-e261235877872ed2.rmeta: /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/lib.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/bytecast.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/decoder/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/decoder/ifd.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/decoder/stream.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/encoder/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/encoder/colortype.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/encoder/writer.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/error.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/tags.rs
+
+/home/nick/Desktop/Rust/Snake/snake/target/debug/deps/tiff-e261235877872ed2.d: /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/lib.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/bytecast.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/decoder/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/decoder/ifd.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/decoder/stream.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/encoder/mod.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/encoder/colortype.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/encoder/writer.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/error.rs /home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/tags.rs
+
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/lib.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/bytecast.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/decoder/mod.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/decoder/ifd.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/decoder/stream.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/encoder/mod.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/encoder/colortype.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/encoder/writer.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/error.rs:
+/home/nick/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tiff-0.6.1/src/tags.rs:
